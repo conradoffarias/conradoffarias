@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @conradoffarias
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Python and HTML5.
-- 💞️ I’m looking to collaborate on projects that involves web programming.
+- 👀 I’m interested in data analysis and app development.
+- 🌱 I’m currently learning Python and Dart.
 - 📫 How to reach me hypertm@protonmail.com
 
 <!---
