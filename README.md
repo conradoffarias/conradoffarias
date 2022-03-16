@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conradoffarias
-- 👀 I’m interested in data analysis and app development.
-- 🌱 I’m currently learning Python and Dart.
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me hypertm@protonmail.com
 
 <!---
