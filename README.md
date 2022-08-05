@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python and Flutter.
 - 📫 How to reach me hypertm@protonmail.com
 
-![](https://komarev.com/ghpvc/?username=conradoffarias)
+![](https://komarev.com/ghpvc/?username=conradoffarias&color=green)
