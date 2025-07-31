@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Conrado Farias
 
-🎯 I'm currently transitioning into tech and learning to become a **developer**. With a background in law and business, I'm now diving into the world of programming and building a strong foundation in **Python**, **HTML**, and **web development**.
+🎯 I'm currently transitioning into tech and learning to become a **developer**. With a background in law and business, I'm now diving into the world of programming and building a strong foundation in **Python**, **JavaScript**, and **web development**.
 
 🛠️ What I'm working on:
 - Completing [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Angela Yu
